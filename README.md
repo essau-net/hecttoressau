@@ -7,6 +7,7 @@ I'm a software developer who is appasionate about startups, history, peculiar te
 - Writting in my personal web ![essau.net](essau.net)
 - Sometimes sharing some ideas om ![twitter](https://twitter.com/hecttoressau)
 - Watch my progress in ![platzi](https://platzi.com/p/hecttoressau/)
+- You can check my ![LinkedIn](https://www.linkedin.com/in/hecttoressau/)
 
 ### 🧑‍💻 Projects
 I don't have experience, but I have create some projects by my own
