@@ -10,10 +10,10 @@ I'm a software developer who is appasionate about startups, history, peculiar te
 - You can check my ![LinkedIn](https://www.linkedin.com/in/hecttoressau/)
 
 ### 🧑‍💻 Projects
-I don't have experience, but I have create some projects by my own
-- essau.net It was supposed to be my personal web app, but at the end I decided to use hashnode.
+My best projects
+- essau.net It was supposed to be my personal web app, but at the end I decided to use medium.
 - torre_clone A simple clone of login torre.co 
-- My project in platzi master, it's going to be a booking system it's pretty awesome.
+- booking-services: My project in platzi master, it's going to be a booking system it's pretty awesome.
 
 ### 🧰 Some technlogies I domain
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
