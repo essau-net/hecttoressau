@@ -3,7 +3,7 @@
 ![Greeting](https://lh3.googleusercontent.com/r9aZs3K0qarGTPukvwyVEuIQ7HuShNeffE3y1o-Hubv6-jdWAo1_u8gMQa1LafSCZuB8Uu7CwA31ya82AUp6uWxrQxlkBbhLmY9asuAf-wZ_bwR2FW4SqOfSbjzJgUdf80fP-RAfg8MFiEqDB0-s2hLwzT9yEcxU9Z5ivEZxvO6e4lziCxxSkhyAdQaFJVUbLE1wXBrOYwAYuBjCcrzkTVstYxZNqcgbsIzEqKI5uce05V5pqwd8A2ELmYFN1IBirAEqiwjPfarjnJKNORu7wWmTK8_5VtkdshyssgnR-QSqkpSR7qLXt2KxosKN1rhFn5jBtiKIf-dSP6x0fxpgBtRB3KJjxSLRqhQIJD2P3u-gUnF0sraJ1piVP2Pc_DGMOSwDXgaP9dPWnMmFoYnzMaWBAQRGA8zfXI_T2TIIIL3p5WlYlEuyCr4dEoOPZAAHdZ86uEhMFZbjUxElC7rlaPXHK0Qs601928-OaW3GaLg25Kcg8c_GrbOE2LquuRrOYVUoslR2xCzU69eXeMKeoS2elx9PUHrISTpzFowkRWz-5hfn6O7tgnDoP5JwrJLzFZFyIyVoO-4CggYufSXzkgx8-LfkPzUQmOmLAxWbi_1V1525mkabm9qhfBlTFoghfp8qSgm1qfKL3Av7h-YE6GwJopsB3XAmb3U8DtFv6fgeCcZn9VusUof1Ye4kIuO7fYOj9Y66g0PKdqmVmYcFvBi9tyh1hv2-ytPwHdl9LAwLaD-tbHpp6Wp8HEPMbA2lfQA4ZcI0_dU7_VfduSlSbBwl-zw=w1200-h480-no?authuser=0)
 
 I'm software developer focus on back-end technologies like JavaScript(Fastify, Jest), Python (Django, Flask) database (MySQL, Redis, MongoDB) and more. Interested in startups environments and developing scalable applications, which allows me to get involved in product development. Creating a personal blog at https://essau.net/
-- 🔭 I’m currently working on booking services in platzi master program
+- 🔭 **I’m currently working on** booking services in platzi master program
 
 
 ### 🛰️ Find me around the web
